@@ -8,4 +8,4 @@
     * markdown2
 
 * **Guides**:
-    * [DEV.to](#)
+    * [DEV.to](https://dev.to/bauripalash/let-s-create-a-toy-markdown-editor-with-python-tkinter-13nk)
