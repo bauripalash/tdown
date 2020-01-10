@@ -9,3 +9,4 @@
 
 * **Guides**:
     * [DEV.to](https://dev.to/bauripalash/let-s-create-a-toy-markdown-editor-with-python-tkinter-13nk)
+    * [FreeCodeCamp News](https://www.freecodecamp.org/news/lets-create-a-toy-markdown-editor-with-python-tkinter/)
